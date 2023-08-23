@@ -12,3 +12,10 @@ to run this project (Python 3.11):
 - install requirements.txt
 - run "uvicorn main:app --reload" 
 
+
+notes:
+- adding submodule in this project:
+
+git submodule add https://github.com/pauloprax/submodule_test.git templates
+
+
